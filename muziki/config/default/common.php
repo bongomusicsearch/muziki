@@ -76,7 +76,7 @@ return [
   'youtube_top_videos_country' => 'US',
   'youtube_search_count' => 5,
   // Pisahkan dengan koma untuk menggunakan banyak API
-  'youtube_api_keys' => 'WEKA YOUTUBE API HAPA',
+  'youtube_api_keys' => 'WEKA YOUTUBE API HAPAmammammammamam',
 
   'soundcloud_search_count' => 5,
   // Pisahkan dengan koma untuk menggunakan banyak API / Client ID
